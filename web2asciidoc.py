@@ -56,7 +56,7 @@ class Web2AsciiDoc:
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃       The Web to AsciiDoc Download Utility (web2asciidoc.py) v0.1.3      ┃
 ┠──────────────────────────────────────────────────────────────────────────┨
-┃                                MIT License                               ┃
+┃                Copyright Notice, MIT License, & Disclaimer               ┃
 ┃──────────────────────────────────────────────────────────────────────────┨
 ┃           © Copyright 2026 DigitalCoreNZ. All rights reserved.           ┃
 ┃                                                                          ┃
